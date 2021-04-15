@@ -13,6 +13,7 @@ body{
     font-size: 16px;
     text-align: center;
     margin-top: 40px;
+    text-decoration:underline;
 }
 .phone{
     width:404px;
