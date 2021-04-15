@@ -22,5 +22,39 @@ body{
 .video_subtext{
     text-align: center;
     color:white;
-    font-size: 32px;
+    font-size: 40px;
+    margin: 20px;
+}
+.sub_description{
+    color: gray;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.landscape_image{
+    width:896px;
+    margin: 0 auto;
+}
+.footer{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.footer .icon{
+    margin: 20px;
+}
+.footer h3{
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.copyright{
+    text-align:right;
+    color:gray;
+    font-size: 20px;
+    margin: 30px;
+    font-weight:500;
 }
