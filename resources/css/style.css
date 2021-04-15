@@ -14,3 +14,13 @@ body{
     text-align: center;
     margin-top: 40px;
 }
+.phone{
+    width:404px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.video_subtext{
+    text-align: center;
+    color:white;
+    font-size: 32px;
+}
